@@ -1,0 +1,78 @@
+﻿PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Tamim Iqbal,1/25/2020,T20,v Pakistan,Bangladesh ,FALSE,TRUE,Bangladesh,Excellent,Excellent,Excellent,Rainy,Normal,In,1,65
+Tamim Iqbal,1/24/2020,T20,v Pakistan,Bangladesh ,FALSE,TRUE,Bangladesh,Average,Poor,Average,Foggy,Normal,In,2,39
+Tamim Iqbal,12/22/2018,T20,v West Indies,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Foggy,Green,Out,1,8
+Tamim Iqbal,12/20/2018,T20,v West Indies,West Indies,FALSE,TRUE,Bangladesh,Poor,Average,Poor,Rainy,Green,Out,1,15
+Tamim Iqbal,12/17/2018,T20,v West Indies,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Rainy,Dusty,Out,1,5
+Tamim Iqbal,8/5/2018,T20,v West Indies,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Rainy,Damp,Out,2,21
+Tamim Iqbal,8/4/2018,T20,v West Indies,West Indies,FALSE,TRUE,Bangladesh,Excellent,Poor,Excellent,Sunny,Normal,In,1,74
+Tamim Iqbal,7/31/2018,T20,v West Indies,West Indies,FALSE,TRUE,Bangladesh,Poor,Average,Poor,Foggy,Dusty,Out,2,0
+Tamim Iqbal,6/7/2018,T20,v Afghanistan,Afghanistan,TRUE,FALSE,Bangladesh,Poor,Poor,Poor,Rainy,Normal,Out,2,5
+Tamim Iqbal,6/5/2018,T20,v Afghanistan,Bangladesh ,FALSE,TRUE,Bangladesh,Excellent,Poor,Excellent,Moderate,Green,In,1,43
+Tamim Iqbal,6/3/2018,T20,v Afghanistan,Afghanistan,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Moderate,Dusty,Out,2,0
+Tamim Iqbal,5/31/2018,T20,v West Indies,West Indies,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Clear,Dard,Out,1,2
+Tamim Iqbal,3/18/2018,T20,v India,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Excellent,Poor,Sunny,Green,Out,2,15
+Tamim Iqbal,3/16/2018,T20,v Sri Lanka,Bangladesh ,FALSE,TRUE,Bangladesh,Excellent,Poor,Poor,Moderate,Normal,In,1,50
+Tamim Iqbal,3/14/2018,T20,v India,India,FALSE,TRUE,Bangladesh,Average,Poor,Average,Rainy,Normal,In,2,27
+Tamim Iqbal,3/10/2018,T20,v Sri Lanka,Sri Lanka,FALSE,TRUE,Bangladesh,Excellent,Average,Poor,Moderate,Green,In,1,47
+Tamim Iqbal,3/8/2018,T20,v India,Bangladesh ,TRUE,FALSE,Bangladesh,Poor,Poor,Poor,Moderate,Damp,Out,2,15
+Tamim Iqbal,2/18/2018,T20,v Sri Lanka,Sri Lanka,FALSE,TRUE,Bangladesh,Average,Poor,Average,Moderate,Green,In,2,29
+Tamim Iqbal,9/15/2017,T20,v Pakistan,Pakistan,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Moderate,Dusty,Out,2,14
+Tamim Iqbal,9/13/2017,T20,v Pakistan,Pakistan,TRUE,FALSE,Bangladesh,Average,Average,Poor,Rainy,Damp,Out,2,23
+Tamim Iqbal,9/12/2017,T20,v Pakistan,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Average,Poor,Clear,Dusty,Out,1,18
+Tamim Iqbal,4/4/2017,T20,v Sri Lanka,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Rainy,Damp,Out,2,0
+Tamim Iqbal,1/8/2017,T20,v New Zealand,New Zealand,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Rainy,Dusty,Out,1,24
+Tamim Iqbal,1/6/2017,T20,v New Zealand,New Zealand,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Moderate,Green,Out,2,13
+Tamim Iqbal,1/3/2017,T20,v New Zealand,Bangladesh ,TRUE,FALSE,Bangladesh,Poor,Average,Poor,Sunny,Dusty,Out,2,11
+Tamim Iqbal,3/26/2016,T20,v New Zealand,New Zealand,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Rainy,Green,Out,1,3
+Tamim Iqbal,3/23/2016,T20,v India,India,FALSE,TRUE,Bangladesh,Average,Average,Average,Rainy,Dusty,In,2,35
+Tamim Iqbal,3/16/2016,T20,v Pakistan,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Moderate,Dard,Out,1,24
+Tamim Iqbal,3/13/2016,T20,v Oman,Bangladesh ,FALSE,TRUE,Bangladesh,Excellent,Average,Poor,Moderate,Damp,In,1,103*
+Tamim Iqbal,3/11/2016,T20,v Ireland,Ireland,FALSE,TRUE,Bangladesh,Excellent,Poor,Poor,Sunny,Normal,In,1,47
+Tamim Iqbal,3/9/2016,T20,v Netherlands,Netherlands,FALSE,TRUE,Bangladesh,Excellent,Poor,Poor,Foggy,Dusty,In,1,83*
+Tamim Iqbal,3/6/2016,T20,v India,India,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Sunny,Green,Out,1,13
+Tamim Iqbal,3/2/2016,T20,v Pakistan,Pakistan,TRUE,FALSE,Bangladesh,Poor,Excellent,Poor,Clear,Normal,Out,1,7
+Tamim Iqbal,1/22/2016,T20,v Zimbabwe,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Sunny,Normal,Out,2,1
+Tamim Iqbal,1/17/2016,T20,v Zimbabwe,Zimbabwe,TRUE,FALSE,Bangladesh,Average,Average,Poor,Foggy,Green,Out,1,23
+Tamim Iqbal,1/15/2016,T20,v Zimbabwe,Zimbabwe,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Sunny,Dard,In,2,29
+Tamim Iqbal,11/15/2015,T20,v Zimbabwe,Bangladesh ,FALSE,TRUE,Bangladesh,Average,Average,Poor,Clear,Dusty,Out,1,21
+Tamim Iqbal,11/13/2015,T20,v Zimbabwe,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Clear,Dard,In,2,31
+Tamim Iqbal,7/7/2015,T20,v South Africa,South Africa,TRUE,FALSE,Bangladesh,Poor,Poor,Excellent,Rainy,Normal,Out,1,13
+Tamim Iqbal,7/5/2015,T20,v South Africa,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Rainy,Dusty,Out,1,5
+Tamim Iqbal,4/24/2015,T20,v Pakistan,Pakistan,TRUE,FALSE,Bangladesh,Poor,Excellent,Poor,Clear,Green,Out,1,14
+Tamim Iqbal,8/27/2014,T20,v West Indies,West Indies,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Clear,Dard,Out,1,11*
+Tamim Iqbal,4/1/2014,T20,v Australia,Austarlia,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Foggy,Damp,Out,1,5
+Tamim Iqbal,3/30/2014,T20,v Pakistan,Pakistan,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Sunny,Normal,Out,1,16
+Tamim Iqbal,3/28/2014,T20,v India,India,FALSE,TRUE,Bangladesh,Poor,Excellent,Poor,Moderate,Dusty,Out,1,6
+Tamim Iqbal,3/25/2014,T20,v West Indies,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Moderate,Dard,Out,1,5
+Tamim Iqbal,3/20/2014,T20,v Hong Kong,Hong Kong,FALSE,TRUE,Bangladesh,Average,Excellent,Poor,Foggy,Dard,Out,1,0
+Tamim Iqbal,3/18/2014,T20,v Nepal,Bangladesh ,FALSE,TRUE,Bangladesh,Poor,Poor,Excellent,Moderate,Dusty,In,2,30
+Tamim Iqbal,3/16/2014,T20,v Afghanistan,Afghanistan,FALSE,TRUE,Bangladesh,Poor,Poor,Poor,Sunny,Green,In,2,21
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
